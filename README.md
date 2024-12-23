@@ -1,0 +1,2 @@
+# SmallScaleLLM
+a tinier LLM 
